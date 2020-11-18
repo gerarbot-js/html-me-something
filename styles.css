@@ -1,0 +1,33 @@
+body {
+        background-color:lightseagreen;
+}
+
+p {
+    margin-right:150px;
+}
+
+.lettering {
+    color:black
+}
+
+.chapter-start {
+    padding-top:100px;
+}
+
+.photo {
+    width:1000px;
+
+}
+
+#crystalPhoto {
+    height:1500px;
+}
+
+#whalePhoto {
+    height:1500px;
+}
+
+#drinkingPhoto {
+    height:1500px;
+}
+
